@@ -45,7 +45,6 @@ pyqt5-plugins==5.15.9.2.3
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.13.0
 pyqt5-tools==5.15.9.3.3
-PyQt5Designer==5.14.1
 PySocks==1.7.1
 pyTelegramBotAPI==4.15.4
 pytest==8.0.1
