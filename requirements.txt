@@ -39,7 +39,6 @@ pydantic==2.5.3
 pydantic_core==2.14.6
 pyee==11.0.1
 pygame==2.5.2
-pypiwin32==223
 PyQt5==5.15.9
 pyqt5-plugins==5.15.9.2.3
 PyQt5-Qt5==5.15.2
